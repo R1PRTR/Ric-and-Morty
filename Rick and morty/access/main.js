@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
             })
             .catch(error => {
                 
-                console.error('Ошибка при выполнении запроса:', error);
+                console.error('Офигеть , это же ошибка во время запроса', error);
             });
     }
 
